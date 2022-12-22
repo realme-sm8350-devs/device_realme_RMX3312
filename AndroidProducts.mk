@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/xtended_lemonadep.mk
+    $(LOCAL_DIR)/xtended_RMX3312.mk
 
 COMMON_LUNCH_CHOICES := \
-    xtended_lemonadep-user \
-    xtended_lemonadep-userdebug \
-    xtended_lemonadep-eng
+    xtended_RMX3312-user \
+    xtended_RMX3312-userdebug \
+    xtended_RMX3312-eng
